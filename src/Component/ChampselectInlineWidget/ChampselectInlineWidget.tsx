@@ -35,7 +35,7 @@ const Widget: React.FC<AppProps> = ({ appName }) => {
   }
 
   const integrateWithCampminder = () => {
-    window.open(`https://client-integration.netlify.app/campminder`, '', 'width=900, height=700, top=100, left=100')
+    window.open(`https://client-integration.netlify.app`, '', 'width=900, height=700, top=100, left=100')
   }
 
   return (

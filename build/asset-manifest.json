@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7f637f59.css",
+    "main.js": "/static/js/main.8976e3af.js",
+    "static/js/787.9be39483.chunk.js": "/static/js/787.9be39483.chunk.js",
+    "static/media/googleSheetsIcon.svg": "/static/media/googleSheetsIcon.c2d0ac8b7ffe23fc29e4b5d9a2210437.svg",
+    "static/media/salesforceIcon.svg": "/static/media/salesforceIcon.395f687c704590b79014a4932bdc2bb1.svg",
+    "static/media/slackIcon.svg": "/static/media/slackIcon.a34ed7adf2c26a836828f3c9429a2f42.svg",
+    "static/media/campminderAdminLogin.png": "/static/media/campminderAdminLogin.682596d6b555ffd173db.png",
+    "static/media/googleDriveIcon.svg": "/static/media/googleDriveIcon.58d02dd10d4d42fd7af6bd660a7b3465.svg",
+    "static/media/googleFormsIcon.svg": "/static/media/googleFormsIcon.34ef133281e753ecf5042f9d9baaf419.svg",
+    "static/media/googleCalendarIcon.svg": "/static/media/googleCalendarIcon.b0cdd77a51a9bf71d8da63988419cd85.svg",
+    "static/media/mailchimpIcon.svg": "/static/media/mailchimpIcon.a4ebd34cfb0f2f5510afb90fd6f7e547.svg",
+    "static/media/campminderIcon.png": "/static/media/campminderIcon.3d4b6bb81509b993b14e.png",
+    "static/media/shopifyIcon.svg": "/static/media/shopifyIcon.6ec3d30a0c16cded433df5cc313e78c4.svg",
+    "static/media/hubspotIcon.svg": "/static/media/hubspotIcon.8659e7f7d48e4e34fa6fb156ecdc7578.svg",
+    "static/media/campminderIcon.svg": "/static/media/campminderIcon.1ccbf969438530e9c88fca4a1fdaf869.svg",
+    "static/media/gmailIcon.svg": "/static/media/gmailIcon.762e843e5f71be4400b5890354dcd312.svg",
+    "index.html": "/index.html",
+    "main.7f637f59.css.map": "/static/css/main.7f637f59.css.map",
+    "main.8976e3af.js.map": "/static/js/main.8976e3af.js.map",
+    "787.9be39483.chunk.js.map": "/static/js/787.9be39483.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f637f59.css",
+    "static/js/main.8976e3af.js"
+  ]
+}

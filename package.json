@@ -25,7 +25,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "build:widget": "parcel build src/index.tsx --public-url https://champselect-inline-widget.netlify.app --no-source-maps -d widget"
+    "build:widget": "react-scripts build && parcel build src/index.tsx --public-url https://champselect-inline-widget.netlify.app --no-source-maps -d widget && cp build/static/css/*.css widget/index.css"
   },
   "eslintConfig": {
     "extends": [
